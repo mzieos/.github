@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://mzieos.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.maizan.mzieos.com/faviconwhite.png" alt="mzieO's Logo" width="150" />
+    <img src="https://www.maizan.mzieos.com/fav.png" alt="mzieO's Logo" width="150" />
   </a>
 </p>
 
