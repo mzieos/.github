@@ -62,7 +62,7 @@ Stay tuned as we open source selected projects!
 
 ## 🧑‍💻 Our Culture
 
-- 📍 Based in Sri Lanka — creating globally.
+- 📍 Based in Doha, Qatar — creating globally.
 - 💬 Communication-first and async-friendly.
 - ⚡ Fast. Reliable. Minimal. Always evolving.
 
