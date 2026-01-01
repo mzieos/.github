@@ -11,7 +11,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=50&center=true&vCenter=true&width=500&height=70&duration=3&pause=9000&color=FFFFFF&lines=mzieO's;" alt="mzieO's Text Logo" />
   </a>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=30&center=true&vCenter=true&width=500&height=40&duration=1&pause=1000&color=BBBBBB&lines=Towards+the+Future;" alt="Towards the Future" />
+  <a href="https://www.mzieos.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=30&center=true&vCenter=true&width=500&height=40&duration=1&pause=1000&color=BBBBBB&lines=Towards+the+Future;" alt="Towards the Future"/>
+  </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Building_Future_Systems-000000?style=flat-square&logoColor=000000&color=ffffff" alt="Future Systems" />
