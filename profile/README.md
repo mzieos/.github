@@ -77,7 +77,7 @@ We focus on **systems thinking** — understanding how components interact to cr
 Interested in collaboration, conversation, or challenging problems?
 
 <p align="left">
-  📧 <a href="mailto:mzieos@outlook.com">mzieos@outlook.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  📧 <a href="mailto:support@mzieos.com">support@mzieos.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   🌐 <a href="https://www.mzieos.com" target="_blank" rel="noopener noreferrer">mzieos.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   📸 <a href="https://www.instagram.com/mzieos/" target="_blank" rel="noopener noreferrer">@mzieos</a>
 </p>
